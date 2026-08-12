@@ -40,7 +40,7 @@ The dataset contains sales information including:
 ## 📊 Dashboard Visualizations
 1. Sales Performance by Category
 2. Sales by City
-3. Top Selling Products
+3. Top Products by Sales
 
 ---
 
